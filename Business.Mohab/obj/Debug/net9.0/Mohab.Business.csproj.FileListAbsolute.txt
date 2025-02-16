@@ -1,0 +1,15 @@
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\bin\Debug\net9.0\Mohab.Business.deps.json
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\bin\Debug\net9.0\Mohab.Business.dll
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\bin\Debug\net9.0\Mohab.Business.pdb
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\bin\Debug\net9.0\Mohab.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\bin\Debug\net9.0\Mohab.DataAcess.pdb
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\Mohab.Business.csproj.AssemblyReference.cache
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\Mohab.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\Mohab.Business.AssemblyInfoInputs.cache
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\Mohab.Business.AssemblyInfo.cs
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\Mohab.Business.csproj.CoreCompileInputs.cache
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\Mohab.Bu.594559EA.Up2Date
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\Mohab.Business.dll
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\refint\Mohab.Business.dll
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\Mohab.Business.pdb
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\Business.Mohab\obj\Debug\net9.0\ref\Mohab.Business.dll

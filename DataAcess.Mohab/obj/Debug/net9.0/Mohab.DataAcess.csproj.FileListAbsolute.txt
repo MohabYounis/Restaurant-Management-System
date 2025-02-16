@@ -1,0 +1,12 @@
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\bin\Debug\net9.0\Mohab.DataAcess.deps.json
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\bin\Debug\net9.0\Mohab.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\bin\Debug\net9.0\Mohab.DataAcess.pdb
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\Mohab.DataAcess.csproj.AssemblyReference.cache
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\Mohab.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\Mohab.DataAcess.AssemblyInfoInputs.cache
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\Mohab.DataAcess.AssemblyInfo.cs
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\Mohab.DataAcess.csproj.CoreCompileInputs.cache
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\Mohab.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\refint\Mohab.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\Mohab.DataAcess.pdb
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\DataAcess.Mohab\obj\Debug\net9.0\ref\Mohab.DataAcess.dll

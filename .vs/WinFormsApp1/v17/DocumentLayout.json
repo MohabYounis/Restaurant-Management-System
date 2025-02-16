@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\winformsapp1\\pres_admin_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_admin_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\winformsapp1\\pres_admin_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_admin_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\winformsapp1\\pres_admin_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_admin_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\winformsapp1\\pres_admin_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_admin_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pres_Admin_Users.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin_Users.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Admin_Users.cs",
+              "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin_Users.cs",
+              "RelativeToolTip": "WinFormsApp1\\Pres_Admin_Users.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:30:16.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pres_Admin_Users.cs [Design]",
+              "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin_Users.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Admin_Users.cs",
+              "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin_Users.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Pres_Admin_Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:30:12.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pres_Admin_Products.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin_Products.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Admin_Products.cs",
+              "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin_Products.cs",
+              "RelativeToolTip": "WinFormsApp1\\Pres_Admin_Products.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:26:10.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pres_Admin_Products.cs [Design]",
+              "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin_Products.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Admin_Products.cs",
+              "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin_Products.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Pres_Admin_Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:26:02.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
