@@ -48,9 +48,9 @@ namespace Mohab.Presentation
                 }
                 else
                 {
-
                     Pres_User pres_user = new Pres_User(UserId);
                     pres_user.Show();
+
                 }
                 this.Hide();
             }

@@ -66,3 +66,4 @@ D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\WinFormsApp1\obj\Debug
 D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\Mohab.Presentation.Pres_User.resources
 D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\Mohab.Presentation.Pres_User_Prod.resources
 D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\Mohab.Presentation.Pres_User_Favourite.resources
+D:\ITI .NET\Technical\1-C#\4-ADO.NET\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\Mohab.Presentation.sourcelink.json

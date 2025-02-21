@@ -13,11 +13,10 @@ namespace Mohab.Presentation
 {
     public partial class Pres_Admin : Form
     {
-        Bus_User admin;
+
         public Pres_Admin()
         {
             InitializeComponent();
-            admin = new Bus_User();
         }
 
         private void btn_product_Click(object sender, EventArgs e)

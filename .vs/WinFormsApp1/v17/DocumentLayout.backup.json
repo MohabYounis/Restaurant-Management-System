@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\winformsapp1\\pres_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{66694834-0713-42E3-A484-7BC9702EBDCF}|DataAcess.Mohab\\Mohab.DataAcess.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\dataacess.mohab\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66694834-0713-42E3-A484-7BC9702EBDCF}|DataAcess.Mohab\\Mohab.DataAcess.csproj|solutionrelative:dataacess.mohab\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\winformsapp1\\pres_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\winformsapp1\\pres_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\winformsapp1\\pres_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|d:\\iti .net\\technical\\1-c#\\4-ado.net\\project\\winformsapp1\\winformsapp1\\pres_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DD1AED5-BE21-41AF-8AFF-8C574FF83B3F}|WinFormsApp1\\Mohab.Presentation.csproj|solutionrelative:winformsapp1\\pres_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\DataAcess.Mohab\\DBContext.cs",
+              "RelativeDocumentMoniker": "DataAcess.Mohab\\DBContext.cs",
+              "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\DataAcess.Mohab\\DBContext.cs",
+              "RelativeToolTip": "DataAcess.Mohab\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:32:09.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pres_Admin.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Admin.cs",
+              "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Admin.cs",
+              "RelativeToolTip": "WinFormsApp1\\Pres_Admin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:13:33.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,46 +66,21 @@
               "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Login.cs",
               "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Login.cs",
               "RelativeToolTip": "WinFormsApp1\\Pres_Login.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:21:03.022Z",
+              "WhenOpened": "2025-02-21T19:05:08.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Pres_Login.cs [Design]",
               "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Login.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Login.cs",
               "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Login.cs [Design]",
               "RelativeToolTip": "WinFormsApp1\\Pres_Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:20:59.915Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pres_Start.cs",
-              "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Start.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Start.cs",
-              "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Start.cs",
-              "RelativeToolTip": "WinFormsApp1\\Pres_Start.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:31:30.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pres_Start.cs [Design]",
-              "DocumentMoniker": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Start.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Pres_Start.cs",
-              "ToolTip": "D:\\ITI .NET\\Technical\\1-C#\\4-ADO.NET\\Project\\WinFormsApp1\\WinFormsApp1\\Pres_Start.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Pres_Start.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:31:26.894Z",
+              "WhenOpened": "2025-02-21T19:04:52.801Z",
               "EditorCaption": " [Design]"
             }
           ]
